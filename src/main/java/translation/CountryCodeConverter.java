@@ -43,7 +43,7 @@ public class CountryCodeConverter {
                 String[] parts = line.split("\t");
                 // TODO Task B: use parts to populate the instance variables
                 countryCodeToCountry.put(parts[2].toLowerCase(), parts[0]);
-                countryToCountryCode.put(parts[0], parts[0].toLowerCase());
+                countryToCountryCode.put(parts[0], parts[2].toLowerCase());
             }
         }
         catch (IOException | URISyntaxException ex) {
