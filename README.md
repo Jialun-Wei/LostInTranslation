@@ -186,7 +186,7 @@ to the two new languages that were implemented!
 These three sets of TODO tasks relate to the actual translation, converting
 language codes, and converting country codes.
 
-- [ ] **Divide up these three tasks across your team and complete them. We recommend working in pairs for these tasks, with each pair making
+- [X] **Divide up these three tasks across your team and complete them. We recommend working in pairs for these tasks, with each pair making
   a PR, but you can also subdivide these tasks.**
 
 > Once these are implemented, the provided tests should all pass.
@@ -195,7 +195,7 @@ language codes, and converting country codes.
 
 ### The GUI (Task D)
 
-- [ ] **As a team, complete the ``TODO Task D``**
+- [X] **As a team, complete the ``TODO Task D``**
 
 For the improved UI, you'll notice that there is a dropdown menu of languages and a scrollable list of country names.
 Each time one of these items is selected, the UI updates to show the translation. The new components used in the UI
@@ -218,7 +218,7 @@ another pair gets the `JList` of country names added.
 > to use `JList` for the country names and languages that would be fine too.
 
 ## Demo
- - [ ] **Once your team's code is fully functional,
+ - [X] **Once your team's code is fully functional,
 demo your program to your TA to verify that your team has completed this lab activity.**
 
 ---
